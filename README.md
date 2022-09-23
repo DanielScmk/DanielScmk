@@ -1,5 +1,5 @@
-- 👋 Olá, meu nome é Daniel
-- 👀 Eu estou interessdo em voleibol
+- :telescope: Olá, meu nome é Daniel
+- :volleyball: Eu estou interessdo em voleibol
 - :shipit: Como me encontrar... danielvictor.schemiko@gmail.com
 
 <!---
