@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @DanielScmk
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...nothing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Daniel
+- 👀 Eu estou interessdop em voleibol
+- :shipit: How to reach me ... danielvictor.schemiko@gmail.com
 
 <!---
 DanielScmk/DanielScmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
