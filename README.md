@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel
-- 👀 Eu estou interessdop em voleibol
-- :shipit: How to reach me ... danielvictor.schemiko@gmail.com
+- 👋 Olá, meu nome é Daniel
+- 👀 Eu estou interessdo em voleibol
+- :shipit: Como me encontrar... danielvictor.schemiko@gmail.com
 
 <!---
 DanielScmk/DanielScmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
