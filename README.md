@@ -1,6 +1,6 @@
-- :telescope: Olá, meu nome é Daniel
-- :volleyball: Eu estou interessdo em voleibol
-- :shipit: Como me encontrar... danielvictor.schemiko@gmail.com
+- :telescope: Olá, nossos nomes são, Daniel e Vitor.
+- :volleyball: Estamos interessdos em voleibol
+- :shipit: Como me encontrar... danielvictor.schemiko@gmail.com/////vitor.trentin.rodrigues@escola.pŕ.gov.br
 
 <!---
 DanielScmk/DanielScmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
